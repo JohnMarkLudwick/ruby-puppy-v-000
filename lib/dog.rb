@@ -1,5 +1,5 @@
 class Dog
-
+  @@all = []
 
 
 
@@ -7,4 +7,4 @@ class Dog
 
 end
 
-@@all = []
+
