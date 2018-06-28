@@ -1,8 +1,10 @@
 class Dog
 
-@@all = []
+
 
 
 
 
 end
+
+@@all = []
